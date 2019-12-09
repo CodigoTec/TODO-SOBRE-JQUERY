@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+}
+
+h1{
+    margin: 50px;
+}
+button{
+    width: 100px;
+    height: 400px;
+    background-color: rgb(1, 1, 67,0.7);
+    color: white;
+    font-size: 30px;
+}

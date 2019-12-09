@@ -1,0 +1,26 @@
+body {
+	text-align: center;
+	font-size: 1.3em;
+	font-family: 'Open Sans', sans-serif;
+}
+
+#zonaJuego {
+	background: rgba(140, 0, 50, 0.75);
+	display: flex;
+	color: white;
+}
+#zonaJuego figure {
+	flex: 1;
+}
+
+#resultado {
+	background: rgba(0, 10, 50, 0.75);
+	color: white;
+	border-radius: 1em;
+	padding: 1em;
+}
+#score {
+	padding: 1em;
+	border: 1px dashed black;
+	background: rgba(20, 215, 0, 0.55);
+}

@@ -1,0 +1,20 @@
+{
+  "empleados":[{
+    "nombre":"Luz",
+    "apellido":"Villa"
+   },
+   {
+    "nombre":"lucas",
+    "apellido":"tovar"
+   },
+   {
+    "nombre":"juan",
+    "apellido":"quilca"
+   },{
+    "nombre":"berenice",
+    "apellido":"rollo"
+   }
+   
+
+   ] 
+}

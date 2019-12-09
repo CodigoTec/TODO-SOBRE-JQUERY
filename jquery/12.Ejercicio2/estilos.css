@@ -1,0 +1,28 @@
+#caja{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    margin: 0px auto;
+}
+
+.rojo{
+    background-color: red !important;
+}
+
+ .verde{
+    background-color: green !important;
+}
+
+    .azul{
+    background-color: blue !important;
+}
+
+
+/*Ejercicio dos*/
+
+.varon{
+    display: none;
+}
+
+
+

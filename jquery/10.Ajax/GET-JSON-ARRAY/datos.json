@@ -1,0 +1,68 @@
+[{
+    "nombre":"Rocio",
+    "apellido":"Quispe",
+    "edad":23,
+    "curso":"jquery",
+    "nota":20
+},
+{
+    "nombre":"Roberto",
+    "apellido":"Perez",
+    "edad":53,
+    "curso":"js",
+    "nota":12
+},
+{
+    "nombre":"Luz",
+    "apellido":"Villa",
+    "edad":42,
+    "curso":"html",
+    "nota":10
+},
+{
+    "nombre":"josias",
+    "apellido":"robles",
+    "edad":32,
+    "curso":"css3",
+    "nota":11
+},
+{
+    "nombre":"maria",
+    "apellido":"tolentino",
+    "edad":15,
+    "curso":"angular",
+    "nota":10
+},
+{
+    "nombre":"marcos",
+    "apellido":"salas",
+    "edad":29,
+    "curso":"react",
+    "nota":19
+},{
+    "nombre":"flor",
+    "apellido":"gonzales",
+    "edad":45,
+    "curso":"css3",
+    "nota":17
+},
+{
+    "nombre":"juan",
+    "apellido":"comun",
+    "edad":14,
+    "curso":"js",
+    "nota":11
+},{
+    "nombre":"esteban",
+    "apellido":"paredes",
+    "edad":26,
+    "curso":"php",
+    "nota":17
+},{
+    "nombre":"bertha",
+    "apellido":"rivas",
+    "edad":16,
+    "curso":"react",
+    "nota":19
+}
+]
